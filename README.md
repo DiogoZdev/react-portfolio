@@ -1,0 +1,1 @@
+Projeto inicializado com Vite, utilizando template para React com Typescript.
