@@ -14,7 +14,7 @@ export default function Main() {
         </div>
         <div className="info">
           <h1>Diogo Lara</h1>
-          <h2>Developer</h2>
+          <h2>&lt;Desenvolvedor/&gt;</h2>
         </div>
       </div>
       <div className="links">
@@ -104,7 +104,7 @@ export default function Main() {
         Ver as coisas acontecendo de forma dinâmica, extremamente colaborativa em um negócio tão inovador tem sido incrível.
         </p>
         <p>
-        Uma das coisas que me marcou grandemente foi a oportunidade de já ter conversado com cada setor da empresa, podendo entender melhor as necessidades e desafios de cada área, tornando a regra do negócio mais clara e podendo ver como essa organização toma forma e cresce rapidamente.
+        É desafiador participar de uma startup com um negócio sem precedentes: desenvoler e operar mini-bancos para empresas, visando a saúde financeira da mesma.
         </p>
       </article>
 
@@ -113,6 +113,9 @@ export default function Main() {
         <h2>2021 - 2022</h2>
         <p>
         Onde iniciei minha jornada como desenvolvedor, profissionalmente falando. De um amante do design e desenvolvimento front-end para desenvolvedor fullstack.
+        </p>
+        <p>
+          Foi um grande aprendizados desenvolver com um ótimo time um sistema para gestão de cidades inteligentes, utilizados por prefeituras pelo Brasil.
         </p>
         <p>
         Pude apoiar o time com a revisão e padronização da tradução do sistema para o inglês e espanhol, participar da construção de novos módulos do sistema, elaborar telas para que os usuários tivessem uma boa experiência de uso e adicionar funcionalidades construindo a parte visual e implementando a interação com os bacos de dados.
@@ -126,13 +129,13 @@ export default function Main() {
           Em 2019 foi minha entrada profissional no mundo de TI. Iniciei com suporte técnico a usuários de várias partes do mundo, incluindo Brasil, EUA, México, Itália, Rússia e outros. Foi uma grande oportunidade de amadurecer meus planos, trabalhar com um público internacional e colocar em prática os idiomas inglês e espanhol.
         </p>
         <p>
-          Depois de pouco mais de um ano, atuei no setor de qualidade, preparando treinamentos, apoiando os times de suporte, 
+          Depois de pouco mais de um ano, atuei no setor de qualidade, preparando treinamentos, apoiando os times de suporte. Continuei tendo a oportunidade de falar inglês e espanhol com equipes globais
         </p>
       </article>
 
     </section>
     <footer>
-      <p>Bootstraped with <SiVite/> Vite - <SiReact/> React</p>
+      <p><SiVite/> vite + <SiReact/> reactjs</p>
     </footer>
     </>
   );
